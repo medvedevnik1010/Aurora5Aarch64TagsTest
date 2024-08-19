@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.template.EmptyProject
+Exec=/usr/bin/ru.template.EmptyProject
+Name=EmptyProject
+Name[ru]=EmptyProject
+
+[X-Application]
+Permissions=
+OrganizationName=ru.template
+ApplicationName=EmptyProject
+ExecDBus=/usr/bin/ru.template.EmptyProject
